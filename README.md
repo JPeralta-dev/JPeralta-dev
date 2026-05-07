@@ -12,6 +12,7 @@
 👥 I believe the best projects are born from teamwork and collaboration between brilliant minds.
 
 ## Technologies:
+[![My Skills](https://skillicons.dev/icons?i=solidity,js,ts,py,git,github,nodejs,express,fastapi,postgres,sqlite,aws,vscode,linkedin,notion,ansible)](https://skillicons.dev)
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
